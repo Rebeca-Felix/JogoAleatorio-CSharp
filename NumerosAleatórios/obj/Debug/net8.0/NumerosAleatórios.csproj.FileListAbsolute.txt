@@ -1,0 +1,14 @@
+C:\Users\rebis\Documents\NumerosAleatórios\bin\Debug\net8.0\NumerosAleatórios.exe
+C:\Users\rebis\Documents\NumerosAleatórios\bin\Debug\net8.0\NumerosAleatórios.deps.json
+C:\Users\rebis\Documents\NumerosAleatórios\bin\Debug\net8.0\NumerosAleatórios.runtimeconfig.json
+C:\Users\rebis\Documents\NumerosAleatórios\bin\Debug\net8.0\NumerosAleatórios.dll
+C:\Users\rebis\Documents\NumerosAleatórios\bin\Debug\net8.0\NumerosAleatórios.pdb
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.AssemblyInfoInputs.cache
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.AssemblyInfo.cs
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.csproj.CoreCompileInputs.cache
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.dll
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\refint\NumerosAleatórios.dll
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.pdb
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\NumerosAleatórios.genruntimeconfig.cache
+C:\Users\rebis\Documents\NumerosAleatórios\obj\Debug\net8.0\ref\NumerosAleatórios.dll
